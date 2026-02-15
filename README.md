@@ -2,6 +2,8 @@
 
 A Claude Code skill for architecting deeply nuanced, human-like personas using the 78-card tarot deck as a psychological framework — where characters emerge from archetypal spectrums, not trait lists, and behavior surfaces organically from situational pressure rather than forced authorial decisions.
 
+[Live Demo Persona Creation Simulation](https://scuffedepoch.com/tarot-persona/)
+
 ## The Problem This Solves
 
 Traditional character design produces flat personas. A character described as "brave, funny, loyal" tells you nothing about how they behave under pressure, what their contradictions feel like from the inside, or why their worst moments feel connected to their best qualities. These characters require the author to manually decide every action, because the character has no internal engine.
